@@ -1,0 +1,15 @@
+C:\Users\nebul\Documents\relisten\bin\Release\net7.0\relisten.exe
+C:\Users\nebul\Documents\relisten\bin\Release\net7.0\relisten.deps.json
+C:\Users\nebul\Documents\relisten\bin\Release\net7.0\relisten.runtimeconfig.json
+C:\Users\nebul\Documents\relisten\bin\Release\net7.0\relisten.dll
+C:\Users\nebul\Documents\relisten\bin\Release\net7.0\relisten.pdb
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\relisten.csproj.AssemblyReference.cache
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\relisten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\relisten.AssemblyInfoInputs.cache
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\relisten.AssemblyInfo.cs
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\relisten.csproj.CoreCompileInputs.cache
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\relisten.dll
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\refint\relisten.dll
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\relisten.pdb
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\relisten.genruntimeconfig.cache
+C:\Users\nebul\Documents\relisten\obj\Release\net7.0\ref\relisten.dll
